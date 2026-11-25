@@ -23,7 +23,7 @@ import os
 #  - c4: three staccato parallel sentences (build / pay / wins) stick
 #    better than the comma series, and the line is still one read (c3).
 # 63 characters / 63 bytes, inside the 1-100 gate; no hype words (c5).
-# Tie-break note: 2 bytes shorter than the "make.fun." sign-off variant
+# Tie-break note: the "make.fun." sign-off variant (58 bytes, 5 shorter)
 # was rejected in favour of the integrated brand clause, which reads as
 # one flowing line rather than four fragments.
 ENTRY = "AI agents build. Bounties pay. The best entry wins on make.fun."
